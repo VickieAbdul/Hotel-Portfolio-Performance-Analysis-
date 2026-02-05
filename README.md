@@ -38,19 +38,19 @@ The dataset contains daily hotel-level data including:
 
 ### 2. Exploratory Data Analysis (EDA)
 
-#### EDA 3.1 — Revenue Structure
+#### EDA 4.1 — Revenue Structure
 - Compared pricing (ADR) vs demand (occupancy)
 - Found that pricing has a stronger relationship with revenue (RevPAR)
 
-#### EDA 3.2 — Guest Satisfaction Drivers
+#### EDA 4.2 — Guest Satisfaction Drivers
 - Analyzed operational and demand-related factors
 - Found guest satisfaction to be stable across different conditions
 
-#### EDA 3.3 — Operational Efficiency
+#### EDA 4.3 — Operational Efficiency
 - Tested whether higher occupancy creates bottlenecks
 - Found operations scale effectively with demand
 
-#### EDA 3.4 — Energy Efficiency
+#### EDA 4.4 — Energy Efficiency
 - Analyzed energy usage relative to occupancy and revenue
 - Found energy consumption per room remains stable as demand increases
 
