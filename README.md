@@ -80,5 +80,8 @@ The dataset contains daily hotel-level data including:
 ---
 
 ## Author
-Vickie Datakindle
+Vickie Abdul
+
+#data-analysis #python #power-bi #business-analytics #hotel-analytics #portfolio-project #exploratory-data-analysis
+
 
