@@ -4,12 +4,10 @@
 This project analyzes operational, financial, guest experience, and energy data from the Milton Hotels portfolio to understand how the company can grow revenue while maintaining guest satisfaction and controlling costs.
 
 The analysis is designed to simulate a real-world business problem and provide actionable insights for decision-makers.
-
 ---
 
 ## Business Problem
 How can Milton Hotels increase revenue and guest satisfaction while controlling operational and energy costs across its hotel portfolio?
-
 ---
 
 ## Dataset Description
@@ -18,14 +16,12 @@ The dataset contains daily hotel-level data including:
 - Guest experience (Satisfaction Score)
 - Operational efficiency (Check-in time, Housekeeping turnover, Staffing)
 - Sustainability metrics (Energy consumption per room)
-
 ---
 
 ## Tools Used
 - Python (Pandas, Matplotlib)
 - Google Colab
 - Power BI (for dashboarding and visualization)
-
 ---
 
 ## Analysis Structure
@@ -53,7 +49,6 @@ The dataset contains daily hotel-level data including:
 #### EDA 4.4 — Energy Efficiency
 - Analyzed energy usage relative to occupancy and revenue
 - Found energy consumption per room remains stable as demand increases
-
 ---
 
 ## Key Insights
@@ -74,20 +69,16 @@ The dataset contains daily hotel-level data including:
 ## Executive Conclusion 
 Milton Hotels shows stable performance across revenue, guest satisfaction, and operational efficiency. Revenue growth is mainly influenced by pricing strategy rather than occupancy levels. 
 There are no major operational bottlenecks affecting guest experience. The business can focus on optimizing pricing strategy while maintaining operational consistency.
-
 ---
 
 ## Next Steps
 - Perform hotel-level segmentation to identify high- and low-performing property clusters
 - Conduct seasonal and regional performance analysis
 - Explore predictive modeling for revenue and occupancy forecasting
-
 ---
 
 ## Author
 Vickie Abdul
-
-#data-analysis #python #power-bi #business-analytics #hotel-analytics #portfolio-project #exploratory-data-analysis
 ---
 
 ## Dataset Disclaimer
