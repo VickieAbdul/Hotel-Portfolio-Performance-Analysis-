@@ -2,12 +2,14 @@
 
 ## Project Overview
 This project analyzes operational, financial, guest experience, and energy data from the Milton Hotels portfolio to understand how the company can grow revenue while maintaining guest satisfaction and controlling costs.
-
 The analysis is designed to simulate a real-world business problem and provide actionable insights for decision-makers.
+
 ---
 
 ## Business Problem
 How can Milton Hotels increase revenue and guest satisfaction while controlling operational and energy costs across its hotel portfolio?
+
+
 ---
 
 ## Dataset Description
@@ -69,6 +71,7 @@ The dataset contains daily hotel-level data including:
 ## Executive Conclusion 
 Milton Hotels shows stable performance across revenue, guest satisfaction, and operational efficiency. Revenue growth is mainly influenced by pricing strategy rather than occupancy levels. 
 There are no major operational bottlenecks affecting guest experience. The business can focus on optimizing pricing strategy while maintaining operational consistency.
+
 ---
 
 ## Next Steps
