@@ -57,11 +57,11 @@ The dataset contains daily hotel-level data including:
 ---
 
 ## Key Insights
-- Revenue growth is primarily driven by pricing strategy rather than occupancy.
-- Guest satisfaction remains consistent even during high-demand periods.
-- Operational processes scale efficiently without systemic bottlenecks.
-- Energy costs are well controlled and do not increase with revenue growth.
-
+- RevPAR is driven more by ADR than occupancy.
+- Guest satisfaction is not strongly influenced by operational timing metrics.
+- Operational efficiency remains stable across hotels.
+- Energy consumption does not show a strong trade-off with revenue.
+- Overall hotel performance is balanced with no major bottlenecks.
 ---
 
 ## Recommendations
@@ -69,13 +69,17 @@ The dataset contains daily hotel-level data including:
 - Maintain current operational standards to protect guest experience.
 - Avoid unnecessary increases in staffing or energy spending.
 - Use hotel-level analysis to identify underperforming properties.
+---
 
+## Executive Conclusion 
+Milton Hotels shows stable performance across revenue, guest satisfaction, and operational efficiency. Revenue growth is mainly influenced by pricing strategy rather than occupancy levels. 
+There are no major operational bottlenecks affecting guest experience. The business can focus on optimizing pricing strategy while maintaining operational consistency.
 ---
 
 ## Next Steps
-- Build interactive Power BI dashboards for monitoring key KPIs
-- Perform hotel-level segmentation for targeted improvements
-- Extend analysis with additional guest experience data if available
+- Perform hotel-level segmentation to identify high- and low-performing property clusters
+- Conduct seasonal and regional performance analysis
+- Explore predictive modeling for revenue and occupancy forecasting
 
 ---
 
