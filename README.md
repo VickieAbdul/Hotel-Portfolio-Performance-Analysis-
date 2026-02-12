@@ -74,6 +74,7 @@ The dataset contains daily hotel-level data including:
 ## Executive Conclusion 
 Milton Hotels shows stable performance across revenue, guest satisfaction, and operational efficiency. Revenue growth is mainly influenced by pricing strategy rather than occupancy levels. 
 There are no major operational bottlenecks affecting guest experience. The business can focus on optimizing pricing strategy while maintaining operational consistency.
+
 ---
 
 ## Next Steps
@@ -87,5 +88,13 @@ There are no major operational bottlenecks affecting guest experience. The busin
 Vickie Abdul
 
 #data-analysis #python #power-bi #business-analytics #hotel-analytics #portfolio-project #exploratory-data-analysis
+---
 
+## Dataset Disclaimer
+
+**Status**: Fictitious / Synthetic
+
+**Source**: Generated via Data Mockster (ChatGPT)
+
+**Affiliation**: None. Any resemblance to real hotels is purely coincidental.
 
