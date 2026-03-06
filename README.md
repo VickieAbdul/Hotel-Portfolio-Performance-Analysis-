@@ -81,7 +81,12 @@ There are no major operational bottlenecks affecting guest experience. The busin
 ---
 
 ## Author
-Vickie Abdul
+**Victoria Abdul**  
+Data Analyst | Python | PowerBI
+
+- Email: victoria.j.abdulkadir@gmail.com
+- LinkedIn: [linkedin.com/in/victoria-abdul](https://www.linkedin.com/in/victoriajabdul/)
+- GitHub: [github.com/vickieabdul](https://github.com/vickieabdul)
 
 ---
 
