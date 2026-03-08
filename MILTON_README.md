@@ -77,3 +77,29 @@ The dataset contains 7,600 daily hotel level records across a global portfolio i
 Milton Hotels is in a stronger position than the business question implies. The data shows that revenue growth is primarily a pricing problem, not an occupancy or capacity problem. Guest satisfaction is resilient, operations scale well with demand, and energy costs are already under control.
 
 The clearest opportunity here is for Milton to get more aggressive and more precise with its pricing strategy. The operational foundation to support that growth already exists.
+
+---
+
+## Next Steps
+- Perform hotel-level segmentation to identify high- and low-performing property clusters
+- Conduct seasonal and regional performance analysis
+- Explore predictive modeling for revenue and occupancy forecasting
+---
+
+## Author
+**Victoria Abdul**  
+Data Analyst | Python | PowerBI
+
+- Email: victoria.j.abdulkadir@gmail.com
+- LinkedIn: [linkedin.com/in/victoria-abdul](https://www.linkedin.com/in/victoriajabdul/)
+- GitHub: [github.com/vickieabdul](https://github.com/vickieabdul)
+
+---
+
+## Dataset Disclaimer
+
+**Status**: Fictitious / Synthetic
+
+**Source**: Generated via Data Mockster (ChatGPT)
+
+**Affiliation**: None. Any resemblance to real hotels is purely coincidental.
